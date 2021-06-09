@@ -1,5 +1,5 @@
 <?php
-/**
+/** test
  * @version    CVS: 1.0.0
  * @package    Com_Register
  * @author     madan <madanchunchu@gmail.com>
